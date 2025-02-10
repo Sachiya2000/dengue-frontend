@@ -170,7 +170,6 @@ const DenguePredictionDashboard = () => {
                     </h3>
                     <p className="text-4xl font-bold text-gray-900 mt-1">
                       {Math.round(prediction)}
-                      <span className="text-lg text-gray-600 ml-2">ක්‍රම</span>
                     </p>
                     <p className="text-sm text-gray-500 mt-2">
                       පරිසරාත්මක සාධක මත පදනම්ව ගණනය කරන ලදි
